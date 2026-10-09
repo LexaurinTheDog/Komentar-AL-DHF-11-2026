@@ -302,7 +302,7 @@ Pika 6 përcakton fushën territoriale të masave administrative: mjafton që p�
 >
 > 3. Urdhri i mbrojtjes ose urdhri i menjëhershëm i mbrojtjes, i nxjerrë me vendim gjykate, apo përfundimi i efekteve të tij nuk cenon në mënyrë të përhershme të drejtat e pronësisë ose të kujdestarisë.
 >
-> 4. Vendimi për zgjidhjen e martesës, i shpallur nga gjykata gjatë kohës së zbatimit të UMM/UMsë për pasojat e njëkohshme fillon të zbatohet nga dita e përfundimit të UMM/UM-së. Në rast se gjykata ka vendosur detyrime të ndryshme ushqimore për fëmijët në këto vendime, zbatohet vendimi më i favorshëm për fëmijët.
+> 4. Vendimi për zgjidhjen e martesës, i shpallur nga gjykata gjatë kohës së zbatimit të UMM/UM-së për pasojat e njëkohshme fillon të zbatohet nga dita e përfundimit të UMM/UM-së. Në rast se gjykata ka vendosur detyrime të ndryshme ushqimore për fëmijët në këto vendime, zbatohet vendimi më i favorshëm për fëmijët.
 >
 > 5. Vendimi i gjykatës për lëshimin e UMM-së dhe UM-së, në rastet kur subjekte të përfshira janë fëmijët, duhet t’i njoftohet edhe zyrës vendore të arsimit parauniversitar përkatëse.
 >

@@ -356,7 +356,7 @@ Pika 4 ia lë Këshillit të Ministrave përcaktimin e përbërjes, funksionimit
 >
 > 3. Organet e të drejtave të njeriut e të barazisë gjinore publikojnë raporte dhe adresojnë rekomandime lidhur me çështjet që lidhet me dhunën ndaj grave dhe dhunën në familje, duke përfshirë edhe grumbullimin e praktikave më të mira vendase e ndërkombëtare.
 >
-> 4. Ministri që mbulon çështjet e barazisë gjinore dhe çështjet sociale, si autoriteti kryesor përgjegjës, dhe INSTAT-i, në konsultim me autoritetet, sipas këtij neni, miratojnë udhëzim të përbashkët lidhur me standardet për mbledhjen, ruajtjen, përpunimin dhe publikimin e të dhënave për dhunën ndaj grave dhe dhunën në familje, përfshirë femicidin, në përputhje me ligjin për statistikat zyrtare, legjislacionin për mbrojtjen e të dhënave personale dhe metodologjitë e INSTATit.
+> 4. Ministri që mbulon çështjet e barazisë gjinore dhe çështjet sociale, si autoriteti kryesor përgjegjës, dhe INSTAT-i, në konsultim me autoritetet, sipas këtij neni, miratojnë udhëzim të përbashkët lidhur me standardet për mbledhjen, ruajtjen, përpunimin dhe publikimin e të dhënave për dhunën ndaj grave dhe dhunën në familje, përfshirë femicidin, në përputhje me ligjin për statistikat zyrtare, legjislacionin për mbrojtjen e të dhënave personale dhe metodologjitë e INSTAT-it.
 
 Neni 57 rregullon mbledhjen, analizimin dhe publikimin e të dhënave dhe statistikave zyrtare për dhunën ndaj grave dhe dhunën në familje. Të dhënat e besueshme janë parakusht për hartimin e politikave dhe për monitorimin e efektivitetit të ligjit.
 
